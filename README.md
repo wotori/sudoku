@@ -1,4 +1,4 @@
-# sudo-vs-ku
+# sudoku
 
 This is an experimental project investigating the solving of Sudoku puzzles and comparing the speed performance between C++, Rust, and Python.
 Based on Python implementation from this [source](https://gist.github.com/syphh/62e6140361feb2d7196f2cb050c987b3). 
